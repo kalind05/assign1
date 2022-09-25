@@ -1,5 +1,7 @@
 # assign1
 Assignment 1 of DMDD course
+NUID 002752274
+NAME - Kalind Joshi
 
 I will be creating a database which will have fields like product ID, Name, Price, Discount, Quantity, total, Cashier ID, Date and time and barcode.
 A barcode will be created and linked to each product which will show details like Prod ID, Name, Price, Discount on being scanned.
